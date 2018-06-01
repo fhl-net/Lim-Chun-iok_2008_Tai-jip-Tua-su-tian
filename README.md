@@ -1,4 +1,4 @@
-# Kam Jī-tián Chu-liāu-khòo
+# 《台日大辭典》台語譯本
 
 線頂網站：http://taigi.fhl.net/dict/
 [![線頂網站](Lim-Chun-iok_2008_Tai-jip-Tua-su-tian/Bāng-tsām_siú-ia̍h.png)](http://taigi.fhl.net/dict/)
