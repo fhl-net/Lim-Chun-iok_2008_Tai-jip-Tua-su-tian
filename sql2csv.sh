@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # The̍h-tiāu ip
-echo "select id,word,other,chinese,exp,example,username,modtime,han,english,page from dic;" | \
+echo "SELECT id,word,other,chinese,exp,example,username,modtime,han,english,page From dic ORDER BY id;" | \
   cat $1 - | \
   sed '/CREATE INDEX .* ON /d' | \
   sed '/ALTER TABLE/{N;d;}' | \
